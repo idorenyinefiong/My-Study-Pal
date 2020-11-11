@@ -59,7 +59,7 @@
     width: 100%;
     border-radius: 2%;
     margin: 3% 2% 0 0;
-    padding: 3%;
+    padding: 1%;
     background-color: #fff;
 }
 
@@ -129,8 +129,4 @@ h5 {
     text-decoration: none;
 }
 
-.connect {
-    display: block;
-    color: #fff;
-}
 
